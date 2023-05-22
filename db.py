@@ -5,7 +5,7 @@ def get_conn():
     return pymysql.connect(
         host='127.0.0.1',
         user='root',
-        password='12345678',
+        password='123456',
         database='python_mysql',
         charset='utf8'
     )

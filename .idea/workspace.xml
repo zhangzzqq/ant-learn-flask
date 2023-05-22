@@ -1,0 +1,1325 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7988a679-950f-4f44-aa1d-15f9248a26bf" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ant-learn-flask.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/db.py" beforeDir="false" afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/activate" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/activate.csh" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/activate.fish" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/chardetect" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/easy_install" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/easy_install-3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/flask" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/pip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/pip3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/pip3.7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/bin/python3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Click-7.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Click-7.0.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Click-7.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Click-7.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Click-7.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Click-7.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Flask-1.0.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Jinja2-2.10.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/MarkupSafe-1.1.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/MarkupSafe-1.1.1.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/MarkupSafe-1.1.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/MarkupSafe-1.1.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/MarkupSafe-1.1.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/MarkupSafe-1.1.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/pbr.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/PyMySQL-0.9.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Werkzeug-0.15.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Werkzeug-0.15.4.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Werkzeug-0.15.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Werkzeug-0.15.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Werkzeug-0.15.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/Werkzeug-0.15.4.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi-2019.6.16.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet-3.0.4.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/_bashcomplete.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/_termui_impl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/_textwrap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/_unicodefun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/_winconsole.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/decorators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/globals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/termui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/click/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/easy-install.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/bar3d_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/bar_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/bmap_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/boxplot_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/calendar_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/commons.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/echarts_china_counties_js_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/echarts_countries_js_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/effectscatter_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/funnel_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/gauge_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/geo_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/graph_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/graphic_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/grid_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/heatmap_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/image_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/kline_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/line3d_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/line_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/liquid_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/map3d_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/map_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/map_globe_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/overlap_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/page_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/parallel_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/pictorialbar_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/pie_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/polar_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/radar_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/render_images_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/sankey_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/scatter3d_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/scatter_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/sunburst_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/surface3d_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/table_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/theme_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/themeriver_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/timeline_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/tree_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/treemap_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/example/wordcloud_example.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/blueprints.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/cli.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/ctx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/debughelpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/globals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/json/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/json/tag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/signals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/templating.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/testing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/flask/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna-2.8.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna-2.8.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna-2.8.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna-2.8.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna-2.8.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna-2.8.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous-1.1.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous-1.1.0.dist-info/LICENSE.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous-1.1.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous-1.1.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous-1.1.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous-1.1.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/exc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/jws.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/signer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/timed.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/itsdangerous/url_safe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/_identifier.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/asyncfilters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/asyncsupport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/bccache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/compiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/debug.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/defaults.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/environment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/ext.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/filters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/idtracking.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/lexer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/loaders.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/meta.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/nativetypes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/nodes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/optimizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/runtime.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/sandbox.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/jinja2/visitor.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/markupsafe/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/markupsafe/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/markupsafe/_constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/markupsafe/_native.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/markupsafe/_speedups.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/markupsafe/_speedups.cpython-37m-darwin.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/entry_points.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/not-zip-safe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/EGG-INFO/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/build_env.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/autocompletion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/base_command.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/cmdoptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/main_parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/cli/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/completion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/hash.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/search.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/show.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/commands/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/configuration.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/download.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/locations.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/candidate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/format_control.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/models/link.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/freeze.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/operations/prepare.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/pep425tags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/pyproject.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/constructors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_file.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_install.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_set.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_tracker.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/req/req_uninstall.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/resolve.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/deprecation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/encoding.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/glibc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/hashes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/logging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/outdated.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/packaging.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/setuptools_build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/temp_dir.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/typing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/utils/ui.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/bazaar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/git.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/mercurial.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/vcs/subversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_internal/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/appdirs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/_cmd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/caches/redis_cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/controller.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/serialize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/cachecontrol/wrapper.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/__main__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/cacert.pem" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/certifi/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/big5freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/big5prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/chardistribution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/charsetgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/charsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/cli/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/cli/chardetect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/codingstatemachine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/cp949prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/enums.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/escprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/escsm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/eucjpprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euckrfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euckrprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euctwfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/euctwprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/gb2312freq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/gb2312prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/hebrewprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/jisfreq.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/jpcntx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langbulgarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langcyrillicmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langgreekmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langhebrewmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langhungarianmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langthaimodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/langturkishmodel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/latin1prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/mbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/mbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/mbcssm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/sbcharsetprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/sbcsgroupprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/sjisprober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/universaldetector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/utf8prober.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/chardet/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/ansi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/ansitowin32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/initialise.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/win32.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/colorama/winterm.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/shutil.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/sysconfig.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/_backport/tarfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/database.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/index.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/locators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/manifest.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/metadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/resources.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/scripts.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distlib/wheel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/distro.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_ihatexml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_inputstream.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_tokenizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/_base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/datrie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_trie/py.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/constants.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/alphabeticalattributes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/inject_meta_charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/optionaltags.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/sanitizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/filters/whitespace.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/html5parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/serializer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treeadapters/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treeadapters/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treeadapters/sax.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treebuilders/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/dom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/etree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/etree_lxml.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/html5lib/treewalkers/genshi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/codec.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/idnadata.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/intranges.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/package_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/idna/uts46data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/ipaddress.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/linklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/mkdirlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/pidlockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/sqlitelockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/lockfile/symlinklockfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/msgpack/fallback.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/__about__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/_structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/markers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/requirements.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/specifiers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/packaging/version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/_in_process.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/build.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/check.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/colorlog.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/envbuild.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pep517/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pkg_resources/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pkg_resources/py31compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/counter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/helpers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/progress/spinner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pyparsing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/core.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/parser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/pytoml/writer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/retrying.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_appengine_environ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/labels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/mklabels.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pip-19.0.3-py3.7.egg/pip/_vendor/webencodings/x_user_defined.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/prettytable-0.7.2-py3.7.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/prettytable-0.7.2-py3.7.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/prettytable-0.7.2-py3.7.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/prettytable-0.7.2-py3.7.egg-info/installed-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/prettytable-0.7.2-py3.7.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/prettytable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts-1.3.1.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts-1.3.1.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts-1.3.1.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts-1.3.1.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts-1.3.1.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts-1.3.1.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/_version.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/bar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/bmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/boxplot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/calendar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/effectscatter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/funnel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/gauge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/geo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/graph.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/heatmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/kline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/line.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/liquid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/map.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/parallel.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/pictorialbar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/pie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/polar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/radar.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/sankey.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/scatter.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/sunburst.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/themeriver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/tree.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/treemap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/basic_charts/wordcloud.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/chart.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/composite_charts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/composite_charts/grid.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/composite_charts/page.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/composite_charts/timeline.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/bar3D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/line3D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/map3D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/map_globe.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/scatter3D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/charts/threeD_charts/surface3D.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/commons/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/commons/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/components/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/components/image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/components/table.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/datasets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/datasets/city_coordinates.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/datasets/countries_regions_db.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/datasets/map_filename.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/globals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/options/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/options/charts_options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/options/global_options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/options/series_options.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/display.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/engine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/snapshot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/image.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/jupyter_globe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/jupyter_lab.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/jupyter_notebook.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/macro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/nteract.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/simple_chart.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/simple_globe.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/simple_page.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/render/templates/table.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/scaffold/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pyecharts/types.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/_auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/_socketio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/charset.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/connections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/CLIENT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/COMMAND.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/CR.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/ER.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/FIELD_TYPE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/FLAG.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/SERVER_STATUS.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/constants/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/converters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/cursors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/err.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/optionfile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/protocol.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/times.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/pymysql/util.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests-2.22.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests-2.22.0.dist-info/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests-2.22.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests-2.22.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests-2.22.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests-2.22.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/__version__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/_internal_utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/adapters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/certs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/cookies.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/help.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/hooks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/packages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/status_codes.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/structures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/requests/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/setuptools-40.8.0-py3.7.egg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/setuptools.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson-3.16.0-py3.7.egg-info/PKG-INFO" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson-3.16.0-py3.7.egg-info/SOURCES.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson-3.16.0-py3.7.egg-info/dependency_links.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson-3.16.0-py3.7.egg-info/installed-files.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson-3.16.0-py3.7.egg-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/_speedups.cpython-37m-darwin.so" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/decoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/encoder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/ordered_dict.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/raw_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/scanner.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_bigint_as_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_bitsize_int_as_string.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_check_circular.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_decimal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_decode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_default.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_dump.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_encode_basestring_ascii.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_encode_for_html.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_errors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_fail.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_float.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_for_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_indent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_item_sort_key.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_iterable.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_namedtuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_pass1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_pass2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_pass3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_raw_json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_recursion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_scanstring.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_separators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_speedups.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_str_subclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_subclass.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_tuple.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tests/test_unicode.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/simplejson/tool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3-1.25.3.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3-1.25.3.dist-info/LICENSE.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3-1.25.3.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3-1.25.3.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3-1.25.3.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3-1.25.3.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/_collections.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/connectionpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/_appengine_environ.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/_securetransport/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/_securetransport/bindings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/_securetransport/low_level.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/appengine.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/ntlmpool.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/pyopenssl.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/securetransport.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/contrib/socks.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/fields.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/filepost.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/backports/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/backports/makefile.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/_mixin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/abnf_regexp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/api.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/builder.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/iri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/misc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/normalizers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/parseresult.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/uri.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/rfc3986/validators.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/six.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/ssl_match_hostname/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/packages/ssl_match_hostname/_implementation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/poolmanager.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/connection.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/queue.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/retry.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/ssl_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/timeout.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/url.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/urllib3/util/wait.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/_compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/_internal.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/_reloader.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/atom.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/cache.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/fixers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/iterio.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/profiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/securecookie.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/sessions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/contrib/wrappers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/datastructures.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/console.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/repr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/FONT_LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/console.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/debugger.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/jquery.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/less.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/more.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/source.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/shared/ubuntu.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/debug/tbtools.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/exceptions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/filesystem.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/formparser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/http.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/local.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/dispatcher.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/http_proxy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/lint.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/profiler.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/proxy_fix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/middleware/shared_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/posixemulation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/routing.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/security.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/serving.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/testapp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/useragents.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/accept.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/auth.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/base_request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/base_response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/common_descriptors.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/etag.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/json.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/request.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/response.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wrappers/user_agent.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/werkzeug/wsgi.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/DESCRIPTION.rst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/INSTALLER" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/METADATA" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/RECORD" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/WHEEL" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/metadata.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt-1.3.0.dist-info/top_level.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/BIFFRecords.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Bitmap.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Cell.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Column.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/CompoundDoc.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/ExcelFormula.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/ExcelFormulaLexer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/ExcelFormulaParser.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/ExcelMagic.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Formatting.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Row.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Style.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/UnicodeUtils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Utils.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Workbook.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/Worksheet.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/antlr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/compat.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/lib/python3.7/site-packages/xlwt/excel-formula.g" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/venvpython/pyvenv.cfg" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/ant_learn_flask$ant_learn_flask.coverage" NAME="ant-learn-flask Coverage Results" MODIFIED="1684633441774" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
+    <SUITE FILE_PATH="coverage/ant_learn_flask$test.coverage" NAME="test Coverage Results" MODIFIED="1684630501239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="python_mysql: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="799">
+              <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://aab1bc48-cb9b-4867-9f04-673967bea71b/schema/python_mysql/table/pvuv">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aab1bc48-cb9b-4867-9f04-673967bea71b/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="das://aab1bc48-cb9b-4867-9f04-673967bea71b/schema/python_mysql/table/user">
+          <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+            <state>
+              <filtering enabled="true" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/db.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/data/pvuv.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test_get_json.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="204">
+              <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>pymysql</find>
+      <find>Markup</find>
+      <find>python_mysql</find>
+      <find>python_mysql.pvuv</find>
+      <find>pdate</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/0e937a95-6631-46ff-b998-8e765a34ce5b/console.sql" />
+        <option value="$PROJECT_DIR$/app.py" />
+        <option value="$PROJECT_DIR$/db.py" />
+        <option value="$PROJECT_DIR$/test.py" />
+        <option value="$PROJECT_DIR$/test_get_json.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="56" />
+    <option name="y" value="25" />
+    <option name="width" value="1624" />
+    <option name="height" value="1025" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ant-learn-flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ant-learn-flask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ant-learn-flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ant-learn-flask" type="462c0819:PsiDirectoryNode" />
+              <item name="data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ant-learn-flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ant-learn-flask" type="462c0819:PsiDirectoryNode" />
+              <item name="docs" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ant-learn-flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ant-learn-flask" type="462c0819:PsiDirectoryNode" />
+              <item name="downloads" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ant-learn-flask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ant-learn-flask" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="database.console.LAST_STATE" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Flask server.ant-learn-flask">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="ant-learn-flask" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ant-learn-flask" type="Python.FlaskServer" factoryName="Flask server">
+      <module name="ant-learn-flask" />
+      <option name="target" value="$PROJECT_DIR$/app.py" />
+      <option name="targetType" value="PATH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="launchJavascriptDebuger" value="false" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7988a679-950f-4f44-aa1d-15f9248a26bf" name="Default Changelist" comment="" />
+      <created>1684550114536</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1684550114536</updated>
+      <workItem from="1684550119547" duration="466000" />
+      <workItem from="1684577595384" duration="1572000" />
+      <workItem from="1684581233682" duration="38000" />
+      <workItem from="1684585183779" duration="1047000" />
+      <workItem from="1684594097664" duration="992000" />
+      <workItem from="1684630161611" duration="3231000" />
+      <workItem from="1684673044691" duration="4000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7350000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="56" y="25" width="1624" height="1025" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21618205" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34070796" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20685841" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32964602" />
+      <window_info anchor="bottom" id="Database Console" order="13" weight="0.32522124" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" visible="true" weight="0.27433628" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/app.py</url>
+          <line>194</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/db.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://0e937a95-6631-46ff-b998-8e765a34ce5b/schema/python_mysql/table/user" />
+    <entry file="file://$PROJECT_DIR$/docs/怎样使用uwsgi在centos7上安装Python3的Flask在线Web服务.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/0e937a95-6631-46ff-b998-8e765a34ce5b/console.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="42" lean-forward="true" selection-start-line="13" selection-start-column="42" selection-end-line="13" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/envs/ant-learn-flask/lib/python3.7/site-packages/flask/cli.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3332">
+          <caret line="217" selection-start-line="217" selection-end-line="217" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/python.jpeg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/echarts.min.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/testform.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="57" column="19" selection-start-line="57" selection-start-column="19" selection-end-line="57" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://aab1bc48-cb9b-4867-9f04-673967bea71b/schema/python_mysql/table/pvuv">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/aab1bc48-cb9b-4867-9f04-673967bea71b/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://aab1bc48-cb9b-4867-9f04-673967bea71b/schema/python_mysql/table/user">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state>
+          <filtering enabled="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/db.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/pvuv.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_get_json.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="24" lean-forward="true" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

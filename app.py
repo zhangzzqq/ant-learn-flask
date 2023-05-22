@@ -9,7 +9,7 @@ from pyecharts.charts import Bar, Pie, Line
 
 from pyecharts import options as opts
 import db
-from jinja2 import Markup
+# from jinja2 import Markup
 
 app = Flask(__name__)
 
@@ -128,6 +128,7 @@ def show_user(user_id):
 def show_echarts():
     xdatas = ["衬衫", "羊毛衫", "雪纺衫", "裤子", "高跟鞋", "袜子"]
     ydatas = [5, 20, 36, 10, 10, 20]
+    from markupsafe import Markup
     return render_template("show_echarts.html",
                            xdatas=Markup(json.dumps(xdatas)),
                            ydatas=json.dumps(ydatas))
